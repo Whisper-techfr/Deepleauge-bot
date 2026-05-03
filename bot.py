@@ -1465,7 +1465,7 @@ async def war_leaderboard(interaction: discord.Interaction):
 #  ON READY
 # ═══════════════════════════════════════════════════════════════════════════════
 
-COMMANDS_VERSION = "v5"  # Bump whenever commands change
+COMMANDS_VERSION = "v6"  # Bump whenever commands change
 
 @bot.event
 async def on_ready():
